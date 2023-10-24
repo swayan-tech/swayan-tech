@@ -3,8 +3,8 @@ we are @swayan-tech
 ## Swayan Tantradnyan = Swayan Technologies.
 ### We are an indigenous organization Based in Nashik, India.
 
+![logo_minor](https://github.com/swayan-tech/swayan-tech/assets/148878269/dc28c49d-4254-4f38-b599-11d3e9b36cca)
 
-![logo_minor](https://github.com/swayan-tech/swayan-tech/assets/148878269/cdddea99-1815-4122-b206-ecefede69676)
 
 ## We offer business consultancy & software design services to **Tech Businesses**, 
 to help them in 
@@ -34,11 +34,12 @@ to help them in
 
 _________________________________________________________
 
-**General Details:
-**
+**General Details:**
 
 Swayan Tantradnyan = Swayan Technologies.
 
 Est: 2023, @ Nashik, Maharashtra, Bharat.
 
 Chairwoman & Head of Operations: Mrs. Swati Dusane
+
+![logo_hd](https://github.com/swayan-tech/swayan-tech/assets/148878269/d2c1b36c-2597-493a-9fd9-90e7decc666d)
