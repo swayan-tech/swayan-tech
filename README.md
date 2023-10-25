@@ -8,7 +8,7 @@ we are @swayan-tech
 
 ## We offer business consultancy & software design services to **Tech Businesses**, 
 to help them in 
-- Forming in-house development & product etams
+- Forming in-house development & product teams
 - Business consultency <only> related to alignment of their s/w product with their business goals
 - Setting up end to end PDLC & SDLC
 - Crafting Software solutions for their problem statements
