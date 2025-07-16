@@ -5,6 +5,7 @@ we are @swayan-tech
 
 ![logo_minor](https://github.com/swayan-tech/swayan-tech/assets/148878269/dc28c49d-4254-4f38-b599-11d3e9b36cca)
 
+![Services](/services.md)
 
 ## We offer business consultancy & software design services to **Tech Businesses**, 
 to help them in 
@@ -21,7 +22,7 @@ to help them in
 
 **📫 How to reach us:**
 
-- write an email to swatinarayanfoundation@gmail.com
+- write an email to swayantech@gmail.com
 
 **📫 Why to reach us:**
 
