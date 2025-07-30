@@ -44,3 +44,9 @@ Est: 2023, @ Nashik, Maharashtra, Bharat.
 Chairwoman & Head of Operations: Mrs. Swati Dusane
 
 ![logo_hd](https://github.com/swayan-tech/swayan-tech/assets/148878269/d2c1b36c-2597-493a-9fd9-90e7decc666d)
+
+________________________
+Policies:[
+Cancellations and Refunds](https://merchant.razorpay.com/policy/O2kb2afBtqcKlk/refund) |  
+[Shipping Policy](https://merchant.razorpay.com/policy/O2kb2afBtqcKlk/shipping) | 
+[Contact Us](https://merchant.razorpay.com/policy/O2kb2afBtqcKlk/contact_us) 
